@@ -1,0 +1,14 @@
+body{
+	background-color: #e74c3c;
+	text-align: center;
+}
+h1{
+	font-family: Helvetica, Arial, sans-serif;
+	color: #fff;
+	font-size: 3rem;
+	font-weight: 300;
+}
+canvas{
+	border: 5px solid #fff;
+	border-radius: 3px;
+}
